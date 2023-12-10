@@ -1,10 +1,15 @@
-### Hi there 👋
+## Hi
+
+## Notable Repos
+- [BeatShot (Unreal Engine 5 Game)](https://github.com/markoleptic/BeatShot)
+- [BeatShot NextJS website](https://github.com/markoleptic/beatshot-app) which is the code behind [beatshot.gg](https://beatshot.gg)
+- [CS:GO Match Predictions](https://github.com/markoleptic/CSGO-Match-Predictions) using Perceptron, Logistic Regression, Random Forest, and Naive Bayes from scratch.
+- [Anime Recommender System](https://github.com/markoleptic/SpeedyRecs-Anime-Recommender)
+
+Occasionally, I write to the [Developer Blog](https://beatshot.gg/devblog) on BeatShot's website.
 
 <!--
 **markoleptic/markoleptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
