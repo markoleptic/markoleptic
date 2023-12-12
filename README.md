@@ -2,7 +2,7 @@
 
 ## Notable Repos
 - [BeatShot (Unreal Engine 5 Game)](https://github.com/markoleptic/BeatShot)
-- [BeatShot NextJS website](https://github.com/markoleptic/beatshot-app) which is the code behind [beatshot.gg](https://beatshot.gg)
+- [BeatShot Web Application](https://github.com/markoleptic/BeatShot-WebApp) using NextJS and Docker. You can view the live website at [beatshot.gg](https://beatshot.gg)
 - [CS:GO Match Predictions](https://github.com/markoleptic/CSGO-Match-Predictions) using Perceptron, Logistic Regression, Random Forest, and Naive Bayes from scratch.
 - [Reinforcement Learning for Aim Training](https://github.com/markoleptic/Reinforcement-Learning-for-Aim-Training) using Sarsa and Q-Learning.
 - [Anime Recommender System](https://github.com/markoleptic/SpeedyRecs) using UBCF, IBCF, SVD, ALS, and a hybrid model.
