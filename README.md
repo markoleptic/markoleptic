@@ -8,7 +8,6 @@
 - [Anime Recommender System](https://github.com/markoleptic/SpeedyRecs) using UBCF, IBCF, SVD, ALS, and a hybrid model.
 
 Occasionally, I write to the [Developer Blog](https://beatshot.gg/devblog) on BeatShot's website.
-https://github.com/markoleptic/
 <!--
 **markoleptic/markoleptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
