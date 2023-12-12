@@ -6,6 +6,11 @@
 - [CS:GO Match Predictions](https://github.com/markoleptic/CSGO-Match-Predictions) using Perceptron, Logistic Regression, Random Forest, and Naive Bayes from scratch.
 - [Reinforcement Learning for Aim Training](https://github.com/markoleptic/Reinforcement-Learning-for-Aim-Training) using Sarsa and Q-Learning.
 - [Anime Recommender System](https://github.com/markoleptic/SpeedyRecs) using UBCF, IBCF, SVD, ALS, and a hybrid model.
+- Parallel Optimization using SIMD, OpenMP, MPI:
+  - [PageRank](https://github.com/markoleptic/PageRank-Optimization)
+  - [Matrix Transpose](https://github.com/markoleptic/Matrix-Transpose-Optimization)
+  - [1D Stencil Operation](https://github.com/markoleptic/Stencil-Operation-Optimization)
+  - [TRMM](https://github.com/markoleptic/TRMM-Optimization)
 
 Occasionally, I write to the [Developer Blog](https://beatshot.gg/devblog) on BeatShot's website.
 <!--
