@@ -1,15 +1,15 @@
 # Hi
 
 ## Notable Repos  
-🎯[BeatShot](https://github.com/markoleptic/BeatShot) (Unreal Engine 5 Game)   
+🎯 [BeatShot](https://github.com/markoleptic/BeatShot) (Unreal Engine 5 Game)   
 
-🌐[BeatShot Web Application](https://github.com/markoleptic/BeatShot-WebApp) using NextJS and Docker. You can view the live website at [beatshot.gg](https://beatshot.gg)  
+🌐 [BeatShot Web Application](https://github.com/markoleptic/BeatShot-WebApp) using NextJS and Docker. You can view the live website at [beatshot.gg](https://beatshot.gg)  
 
-📺[Anime Recommender System](https://github.com/markoleptic/SpeedyRecs) using UBCF, IBCF, SVD, ALS, and a hybrid model.  
+📺 [Anime Recommender System](https://github.com/markoleptic/SpeedyRecs) using UBCF, IBCF, SVD, ALS, and a hybrid model.  
 
-🔫[CS:GO Match Predictions](https://github.com/markoleptic/CSGO-Match-Predictions) using Perceptron, Logistic Regression, Random Forest, and Naive Bayes from scratch.  
+🔫 [CS:GO Match Predictions](https://github.com/markoleptic/CSGO-Match-Predictions) using Perceptron, Logistic Regression, Random Forest, and Naive Bayes from scratch.  
 
-🎯[Reinforcement Learning for Aim Training](https://github.com/markoleptic/Reinforcement-Learning-for-Aim-Training) using Sarsa and Q-Learning.  
+🎯 [Reinforcement Learning for Aim Training](https://github.com/markoleptic/Reinforcement-Learning-for-Aim-Training) using Sarsa and Q-Learning.  
 
 🚄
 [PageRank](https://github.com/markoleptic/PageRank-Optimization), 
