@@ -1,17 +1,18 @@
 # Hi
 
 ## Notable Repos  
-🎯 [BeatShot](https://github.com/markoleptic/BeatShot) (Unreal Engine 5 Game)   
+[Encounter Planner](https://github.com/markoleptic/EncounterPlanner) (World of Warcraft addon)   
 
-🌐 [BeatShot Web Application](https://github.com/markoleptic/BeatShot-WebApp) using NextJS and Docker. You can view the live website at [beatshot.gg](https://beatshot.gg)  
+[BeatShot](https://github.com/markoleptic/BeatShot) (Unreal Engine 5 Game)   
 
-📺 [Anime Recommender System](https://github.com/markoleptic/SpeedyRecs) using UBCF, IBCF, SVD, ALS, and a hybrid model.  
+[BeatShot Web Application](https://github.com/markoleptic/BeatShot-WebApp) using NextJS and Docker. You can view the live website at [beatshot.gg](https://beatshot.gg)  
 
-🔫 [CS:GO Match Predictions](https://github.com/markoleptic/CSGO-Match-Predictions) using Perceptron, Logistic Regression, Random Forest, and Naive Bayes from scratch.  
+[Anime Recommender System](https://github.com/markoleptic/SpeedyRecs) using UBCF, IBCF, SVD, ALS, and a hybrid model.  
 
-🎯 [Reinforcement Learning for Aim Training](https://github.com/markoleptic/Reinforcement-Learning-for-Aim-Training) using Sarsa and Q-Learning.  
+[CS:GO Match Predictions](https://github.com/markoleptic/CSGO-Match-Predictions) using Perceptron, Logistic Regression, Random Forest, and Naive Bayes from scratch.  
 
-🚄
+[Reinforcement Learning for Aim Training](https://github.com/markoleptic/Reinforcement-Learning-for-Aim-Training) using Sarsa and Q-Learning.  
+
 [PageRank](https://github.com/markoleptic/PageRank-Optimization), 
 [Matrix Transpose](https://github.com/markoleptic/Matrix-Transpose-Optimization), 
 [1D Stencil Operation](https://github.com/markoleptic/Stencil-Operation-Optimization), 
